@@ -17,7 +17,7 @@ btn.addEventListener('click', () => {
               
               reject("Oh sorry . You aren't old enough.");
              }
-         }, 4000);
+         }, 0);
     });
 
     newPromise
